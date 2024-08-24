@@ -1,4 +1,4 @@
-4470
+4469
 58/home/safi/Desktop/REACT/PARCEL/dist/index.8cfc62b9.js.map1724486104438587537 0
 47/home/safi/Desktop/REACT/PARCEL/dist/index.html1724486104413587537 0
 36/home/safi/Desktop/REACT/PARCEL/dist1724486104332587540 1
@@ -1625,7 +1625,6 @@
 62/home/safi/Desktop/REACT/PARCEL/node_modules/stable/index.d.ts1724485831539596073 0
 65/home/safi/Desktop/REACT/PARCEL/node_modules/stable/stable.min.js1724485831561596072 0
 83/home/safi/Desktop/REACT/PARCEL/node_modules/json-parse-even-better-errors/index.js1724485831533596073 0
-39/home/safi/Desktop/REACT/PARCEL/data.js1724485219882615206 0
 73/home/safi/Desktop/REACT/PARCEL/node_modules/htmlnano/lib/presets/max.cjs1724485832284596050 0
 91/home/safi/Desktop/REACT/PARCEL/node_modules/@swc/helpers/_/_wrap_native_super/package.json1724485833025596026 0
 72/home/safi/Desktop/REACT/PARCEL/node_modules/react-dom/server.browser.js1724484701561631419 0
@@ -2501,7 +2500,7 @@
 78/home/safi/Desktop/REACT/PARCEL/node_modules/htmlparser2/lib/WritableStream.js1724485831812596064 0
 76/home/safi/Desktop/REACT/PARCEL/node_modules/caniuse-lite/data/regions/GU.js1724485831902596062 0
 105/home/safi/Desktop/REACT/PARCEL/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js1724484701547631420 0
-41/home/safi/Desktop/REACT/PARCEL/script.js1724487234184552197 0
+41/home/safi/Desktop/REACT/PARCEL/script.js1724487736726536478 0
 69/home/safi/Desktop/REACT/PARCEL/node_modules/@swc/helpers/_/_to_array1724485833020596027 1
 82/home/safi/Desktop/REACT/PARCEL/node_modules/caniuse-lite/data/features/fileapi.js1724485831893596062 0
 108/home/safi/Desktop/REACT/PARCEL/node_modules/react-dom/umd/react-dom-server-legacy.browser.production.min.js1724484701545631420 0
