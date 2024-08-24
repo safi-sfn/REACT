@@ -2926,15 +2926,62 @@ $parcel$ReactRefreshHelpers$595d.prelude(module);
 try {
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _client = require("react-dom/client");
-const h1 = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-    children: "Hello World"
-}, void 0, false, {
+var _styleCss = require("./style.css");
+const imgCard = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+    className: "imgCard",
+    children: [
+        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+            src: "https://i.insider.com/5df10d81fd9db229ba736a77?width=700",
+            alt: "iphone"
+        }, void 0, false, {
+            fileName: "script.js",
+            lineNumber: 5,
+            columnNumber: 5
+        }, undefined),
+        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+            className: "content",
+            children: [
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h3", {
+                    children: "iphone 13 pro"
+                }, void 0, false, {
+                    fileName: "script.js",
+                    lineNumber: 7,
+                    columnNumber: 5
+                }, undefined),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                    children: "Apple"
+                }, void 0, false, {
+                    fileName: "script.js",
+                    lineNumber: 8,
+                    columnNumber: 5
+                }, undefined),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("b", {
+                        children: "$999"
+                    }, void 0, false, {
+                        fileName: "script.js",
+                        lineNumber: 9,
+                        columnNumber: 8
+                    }, undefined)
+                }, void 0, false, {
+                    fileName: "script.js",
+                    lineNumber: 9,
+                    columnNumber: 5
+                }, undefined)
+            ]
+        }, void 0, true, {
+            fileName: "script.js",
+            lineNumber: 6,
+            columnNumber: 5
+        }, undefined)
+    ]
+}, void 0, true, {
     fileName: "script.js",
-    lineNumber: 3,
-    columnNumber: 12
+    lineNumber: 4,
+    columnNumber: 17
 }, undefined);
 const root = (0, _client.createRoot)(document.getElementById("root"));
-root.render(h1);
+root.render(imgCard);
 console.log("Hello world!!!");
 
   $parcel$ReactRefreshHelpers$595d.postlude(module);
@@ -2942,7 +2989,7 @@ console.log("Hello world!!!");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-dom/client":"lOjBx","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"iTorj":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react-dom/client":"lOjBx","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","./style.css":"dRy26"}],"iTorj":[function(require,module,exports) {
 "use strict";
 module.exports = require("c0e4f330587e71e4");
 
@@ -27260,6 +27307,6 @@ function registerExportsForReactRefresh(module1) {
     }
 }
 
-},{"3ab8f6beed3dd8fb":"786KC"}]},["1xC6H","dpgAG","6rimH"], "6rimH", "parcelRequire35fe")
+},{"3ab8f6beed3dd8fb":"786KC"}],"dRy26":[function() {},{}]},["1xC6H","dpgAG","6rimH"], "6rimH", "parcelRequire35fe")
 
 //# sourceMappingURL=index.8cfc62b9.js.map

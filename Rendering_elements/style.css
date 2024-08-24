@@ -1,0 +1,18 @@
+.imgCard{
+    width: 250px;
+    border: 1px solid;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.imgCard img{
+    width: 100%;
+}
+
+.imgCard p , .imgCard h3{
+    margin: 6px 0;
+}
+
+.content{
+    padding: 0 8px;
+}
